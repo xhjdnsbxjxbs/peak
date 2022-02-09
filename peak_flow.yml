@@ -1,6 +1,5 @@
 services:
   redis:
-#    image: redis:5.0.7
     image: ubuntu:latest
 script:
   - lscpu
